@@ -1,0 +1,45 @@
+.judul {
+	padding: 20px;
+	margin-top: 30px;
+}
+.gambar-menu{
+	height: 100px;
+	width: 100px;
+	border-radius: 50%;
+}
+
+.nav-left{
+	margin-left: 20px;
+}
+
+.item-left{
+	padding: 10px;
+}
+
+.item-left:hover, .link-nav:hover {
+	color: white;
+	background-color: #F96666;
+}
+
+
+
+.link-nav{
+	text-decoration: none;
+	color: black;
+/*	background-color: #F96666;
+	color: white;*/
+}
+
+.active{
+	color: white;
+	height: bold;
+}
+
+.merah{
+	color: #F96666;
+}
+
+.bg-merah{
+	background-color: #F96666;
+	color: white;
+}
